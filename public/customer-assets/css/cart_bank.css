@@ -1,0 +1,15 @@
+body{
+  padding:1rem;
+  margin:0px;
+  border:2rem solid #1A962A;
+}
+input{
+  width:100%;
+  margin-bottom:2rem;
+  text-align:center;
+  font-size:2rem;
+}
+h1{
+  text-align:center;
+  color:#323D2F
+}

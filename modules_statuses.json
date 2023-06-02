@@ -1,0 +1,11 @@
+{
+    "Cart": true,
+    "Product": true,
+    "Order": true,
+    "User": true,
+    "Payment": true,
+    "Checkout": true,
+    "[\u0634\u063a\u0633\u0641\u0634\u0642": true,
+    "[\u0634\u063a": true,
+    "Paystar": true
+}

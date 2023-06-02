@@ -1,0 +1,11 @@
+{
+    "name": "Paystar",
+    "alias": "paystar",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Paystar\\Providers\\PaystarServiceProvider"
+    ],
+    "files": []
+}
